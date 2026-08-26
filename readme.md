@@ -256,4 +256,4 @@ O projeto também contribuiu para melhorar a compreensão sobre **eventos, funç
 ---
 
 ⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
-# Yu-Gi-Oh
+
