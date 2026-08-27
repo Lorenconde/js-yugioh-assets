@@ -213,17 +213,6 @@ http://127.0.0.1:5500/
 ![Tela inicial](./src/assets/preview/home.png)
 ```
 
-Você pode criar uma pasta para as imagens:
-
-```text
-src/
-└── assets/
-    └── preview/
-        ├── home.png
-        ├── duel.png
-        └── mobile.png
-```
-
 ---
 
 ## 📚 Projeto desenvolvido durante a DIO
