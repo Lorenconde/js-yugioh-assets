@@ -160,7 +160,7 @@ Em telas menores, o layout passa de uma estrutura horizontal para uma estrutura 
 ### 1. Clone o repositório
 
 ```bash
-git clone SEU_LINK_DO_REPOSITORIO
+git clone (https://github.com/Lorenconde/js-yugioh-assets)
 ```
 
 ### 2. Acesse a pasta
