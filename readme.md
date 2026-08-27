@@ -207,10 +207,10 @@ http://127.0.0.1:5500/
 
 ## 📸 Preview
 
-> Adicione aqui screenshots do projeto funcionando.
+> Página Inicial.
 
-```Página Inicial
-| <img src=".src/assets/preview/home.png"> |
+```
+| <img src="./assets/preview/home.png"> |
 ```
 
 ---
