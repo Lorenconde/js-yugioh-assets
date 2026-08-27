@@ -209,8 +209,8 @@ http://127.0.0.1:5500/
 
 > Adicione aqui screenshots do projeto funcionando.
 
-```text
-![Tela inicial](./src/assets/preview/home.png)
+```Página Inicial
+| <img src=".src/assets/preview/home.png"> |
 ```
 
 ---
