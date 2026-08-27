@@ -207,11 +207,10 @@ http://127.0.0.1:5500/
 
 ## 📸 Preview
 
-> Página Inicial.
+| Página Inicial |
+|----------------|
+| <img src="src/assets/preview/home.png"> |
 
-```
-![Preview do projeto](src/assets/preview/home.png)
-```
 
 ---
 
